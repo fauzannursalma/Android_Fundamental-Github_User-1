@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Github Users</string>
+
+    <string name="users_name">Nama User</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="flag">Flag</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+
+    <string-array name="data_name">
+        <item>Fauzan Nursalma</item>
+        <item>Sandhika Galih</item>
+        <item>Taylor Otwell</item>
+        <item>Gilang Ramadhan</item>
+        <item>Galih Pratama</item>
+        <item>Adam Wathan</item>
+        <item>Jen Dewalt</item>
+        <item>Chris Ohk</item>
+        <item>Daichi Furiya</item>
+        <item>Tetiana Blindaruk</item>
+        <item>Emil Ernerfeldt</item>
+        <item>Jennifer (Jenny) Bryan</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>fauzannursalma</item>
+        <item>sandhikagalih</item>
+        <item>taylorotwell</item>
+        <item>gilangadhan</item>
+        <item>galpratama</item>
+        <item>adamwathan</item>
+        <item>jendewalt</item>
+        <item>utilForever</item>
+        <item>wasabeef</item>
+        <item>TBlindaruk</item>
+        <item>emilk</item>
+        <item>jennybc</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>South Korea</item>
+        <item>Japan</item>
+        <item>Ukraine</item>
+        <item>Sweden</item>
+        <item>Canada</item>
+    </string-array>
+
+    <string-array name="data_flag">
+        <item>🇮🇩</item>
+        <item>🇮🇩</item>
+        <item>🇺🇸</item>
+        <item>🇮🇩</item>
+        <item>🇮🇩</item>
+        <item>🇨🇦</item>
+        <item>🇺🇸</item>
+        <item>🇰🇷</item>
+        <item>🇯🇵</item>
+        <item>🇺🇦</item>
+        <item>🇸🇪</item>
+        <item>🇨🇦</item>
+    </string-array>
+
+    <string-array name="data_followers">
+        <item>17</item>
+        <item>7762</item>
+        <item>24739</item>
+        <item>220</item>
+        <item>480</item>
+        <item>7847</item>
+        <item>2872</item>
+        <item>1910</item>
+        <item>8441</item>
+        <item>883</item>
+        <item>1088</item>
+        <item>4585</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>36</item>
+        <item>4</item>
+        <item>1</item>
+        <item>34</item>
+        <item>41</item>
+        <item>12</item>
+        <item>0</item>
+        <item>302</item>
+        <item>57</item>
+        <item>5</item>
+        <item>1</item>
+        <item>34</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>21</item>
+        <item>48</item>
+        <item>25</item>
+        <item>62</item>
+        <item>42</item>
+        <item>157</item>
+        <item>5</item>
+        <item>216</item>
+        <item>41</item>
+        <item>29</item>
+        <item>54</item>
+        <item>143</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/user_1</item>
+        <item>@drawable/user_2</item>
+        <item>@drawable/user_3</item>
+        <item>@drawable/user_4</item>
+        <item>@drawable/user_5</item>
+        <item>@drawable/user_6</item>
+        <item>@drawable/user_7</item>
+        <item>@drawable/user_8</item>
+        <item>@drawable/user_9</item>
+        <item>@drawable/user_10</item>
+        <item>@drawable/user_11</item>
+        <item>@drawable/user_12</item>
+    </string-array>
+</resources>
